@@ -1,3 +1,6 @@
+B.Tech student in Artificial Intelligence at VIT Bhopal, with hands-on experience in machine learning, data analysis, and data science. I build intelligent systems — NLP pipelines, predictive models, and automated ETL workflows — and translate raw data into actionable insights through dashboards and BI tools. Passionate about solving real-world problems at the intersection of AI and analytics.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakhar.s_29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakharshrivastava29) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lucifer2905M) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakharshrivastava290@gmail.com) 
